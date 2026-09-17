@@ -1,6 +1,6 @@
 # Brand Assets
 
-Official brand assets for Bitcast and Stitch3.
+Official brand assets for Bitcast, Stitch3, and Outfold.
 
 ## Structure
 
@@ -18,6 +18,7 @@ Each asset directory contains source SVGs and any exported variants.
 
 - **[Bitcast](bitcast/)** — Decentralized marketing infrastructure on Bittensor
 - **[Stitch3](stitch3/)** — Creator campaign platform by Bitcast
+- **[Outfold](outfold/)** — Product & design brand (creator portal, outfold.ai)
 
 ## Brand Colors
 
@@ -30,9 +31,22 @@ Each asset directory contains source SVGs and any exported variants.
 | Black  | `#000000` | Dark backgrounds   |
 | White  | `#FFFFFF` | Light backgrounds  |
 
+### Outfold
+
+| Color  | Hex       | Usage                  |
+|--------|-----------|------------------------|
+| Ink    | `#08163E` | Primary dark / text    |
+| Blue   | `#1D3CFF` | Primary brand blue     |
+| White  | `#FFFFFF` | Reversed / dark bg use |
+
 ### Bitcast
 
-_TBD_
+| Color  | Hex       | Usage                  |
+|--------|-----------|------------------------|
+| Blue   | `#0543FC` | Gradient start         |
+| Violet | `#8136D6` | Gradient mid           |
+| Magenta| `#A429BC` | Gradient end           |
+| White  | `#FFFFFF` | Mark on tile           |
 
 ## Usage
 
